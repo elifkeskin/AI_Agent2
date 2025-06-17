@@ -22,7 +22,7 @@ The HR Assistant is an AI-powered tool designed to help HR professionals and emp
 ## Installation
  ```bash
 # Clone the repository
-git clone https://github.com/yourusername/HR_Assistant.git
+git clone https://github.com/elifkeskin/HR_Assistant.git
 cd HR_Assistant
 
 # Install dependencies
@@ -36,12 +36,16 @@ echo "OPENAI_API_KEY=your_api_key_here" > .env
 The project is implemented as a Jupyter notebook. To use it:
 
 **1.** Start Jupyter notebook:
+
 ```bash
 jupyter notebook
 ```
 **2.** Open the HR_Assistant.ipynb notebook
+
 **3.** Run the cells to initialize the assistant
+
 **4.** Enter an employee code when prompted
+
 **5.** Ask HR-related questions about the employee
 
 ***Example queries:***
