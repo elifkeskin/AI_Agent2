@@ -21,7 +21,7 @@ The Pandas DataFrame Agent is an intelligent assistant that helps you analyze an
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/pandas-df-agent.git
+git clone https://github.com/elifkeskin/pandas-df-agent.git
 cd pandas-df-agent
 
 # Install dependencies
