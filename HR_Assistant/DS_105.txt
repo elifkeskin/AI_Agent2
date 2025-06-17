@@ -1,0 +1,7 @@
+Employee Code: DS_105
+Role: Data Scientist
+Work Location: Seattle
+Work Hours: 10 AM to 6:30 PM PST
+Annual Leave Policy: 20 days per year
+Compensation: $ 110,000 
+Performance Bonus: 14% of base salary annually

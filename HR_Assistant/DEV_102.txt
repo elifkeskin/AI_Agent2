@@ -1,0 +1,7 @@
+Employee Code: DEV_102
+Role: Software Developer
+Work Location: San Francisco
+Work Hours: 10 AM to 7 PM PST
+Annual Leave Policy: 20 days per year
+Compensation: $ 100,000 
+Performance Bonus: 10% of base salary annually

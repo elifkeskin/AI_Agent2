@@ -1,0 +1,7 @@
+Employee Code: HR_103
+Role: HR Executive
+Work Location: Chicago
+Work Hours: 9:30 AM to 6:30 PM CST
+Annual Leave Policy: 22 days per year
+Compensation: $ 85,000 
+Performance Bonus: 12% of base salary annually

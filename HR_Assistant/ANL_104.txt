@@ -1,0 +1,7 @@
+Employee Code: ANL_104
+Role: Business Analyst
+Work Location: Boston
+Work Hours: 9 AM to 5:30 PM EST
+Annual Leave Policy: 21 days per year
+Compensation: $ 95,000 
+Performance Bonus: 11% of base salary annually
