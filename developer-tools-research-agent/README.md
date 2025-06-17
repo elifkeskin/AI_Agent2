@@ -64,11 +64,11 @@ docker build -t dev-tools-research-agent .
 # Run the container
 docker run -p 8000:8000 -e OPENAI_API_KEY=your_openai_api_key -e FIRECRAWL_API_KEY=your_firecrawl_api_key dev-tools-research-agent
  ```
-<img width="493" alt="Developer_tools_research_agent_1" src="https://github.com/user-attachments/assets/52910cd8-a0aa-42f7-8cd4-3eb266dcb565" />
 
-<img width="506" alt="Developer_tools_research_agent_2" src="https://github.com/user-attachments/assets/0f673df9-18ea-4b3a-a7a4-7d71fd7d0d59" />
+<img width="493" alt="Developer_tools_research_agent_1" src="https://github.com/user-attachments/assets/274a9b95-1059-41ad-9d66-e4407c9ccae4" />
 
-<img width="506" alt="Developer_tools_research_agent_3" src="https://github.com/user-attachments/assets/1b60d0f2-ce94-496b-901a-7d3b13707276" />
+<img width="506" alt="Developer_tools_research_agent_2" src="https://github.com/user-attachments/assets/1a33427f-15f0-4daf-9a99-bde8fca35b6e" />
+
 
 
 ## License
