@@ -24,7 +24,7 @@ The Developer Tools Research Agent is an AI-powered tool that helps developers d
 ## Installation
   ```bash
 # Clone the repository
-git clone https://github.com/yourusername/developer-tools-research-agent.git
+git clone https://github.com/elifkeskin/developer-tools-research-agent.git
 cd developer-tools-research-agent
 
 # Install Python dependencies
