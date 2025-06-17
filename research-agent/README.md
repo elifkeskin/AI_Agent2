@@ -27,7 +27,7 @@ The Research Agent is an AI-powered tool that helps users scrape websites, crawl
 
   ```bash
 # Clone the repository
-git clone https://github.com/yourusername/research-agent.git
+git clone https://github.com/elifkeskin/research-agent.git
 cd research-agent
 
 # Install Python dependencies
