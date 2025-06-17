@@ -19,6 +19,7 @@ The Pandas DataFrame Agent is an intelligent assistant that helps you analyze an
 
 ## Installation
 
+```bash
 # Clone the repository
 git clone https://github.com/yourusername/pandas-df-agent.git
 cd pandas-df-agent
@@ -28,6 +29,7 @@ pip install -r requirements.txt
 
 # Create a .env file with your OpenAI API key
 echo "OPENAI_API_KEY=your_api_key_here" > .env
+```
 
 ## Usage
 The project is implemented as a Jupyter notebook. To use it:
@@ -46,12 +48,14 @@ Example queries:
 - "Create a bar chart of units sold by product"
 
 ## Docker Support
+ ```bash
 You can also run the project using Docker:
 # Build the Docker image
 docker build -t pandas-df-agent .
 
 # Run the container
 docker run -p 8888:8888 -e OPENAI_API_KEY=your_api_key_here pandas-df-agent
+```
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
