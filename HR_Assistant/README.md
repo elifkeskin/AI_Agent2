@@ -20,6 +20,7 @@ The HR Assistant is an AI-powered tool designed to help HR professionals and emp
 
 
 ## Installation
+ ```bash
 # Clone the repository
 git clone https://github.com/yourusername/HR_Assistant.git
 cd HR_Assistant
@@ -29,24 +30,27 @@ pip install -r requirements.txt
 
 # Create a .env file with your OpenAI API key
 echo "OPENAI_API_KEY=your_api_key_here" > .env
+```
 
 ## Usage
 The project is implemented as a Jupyter notebook. To use it:
 
-1. Start Jupyter notebook:
+**1.** Start Jupyter notebook:
+```bash
 jupyter notebook
+```
+**2.** Open the HR_Assistant.ipynb notebook
+**3.** Run the cells to initialize the assistant
+**4.** Enter an employee code when prompted
+**5.** Ask HR-related questions about the employee
 
-2. Open the HR_Assistant.ipynb notebook
-3. Run the cells to initialize the assistant
-4. Enter an employee code when prompted
-5. Ask HR-related questions about the employee
-
-Example queries:
+***Example queries:***
 
 - "What is the total salary including bonus?"
 - "How many annual leave days does this employee have?"
 - "What are the work hours for this employee?"
 
+ ```bash
 ## Docker Support
 You can also run the project using Docker:
 
@@ -55,6 +59,7 @@ docker build -t hr-assistant .
 
 # Run the container
 docker run -p 8888:8888 -e OPENAI_API_KEY=your_api_key_here hr-assistant
+```
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
